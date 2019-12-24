@@ -1,0 +1,15 @@
+body {
+  background: black url("Heads.jpeg") no-repeat fixed center;
+}
+h1{
+  color:light green;
+}
+p {
+  color: lightblue;
+}
+h2{
+	color: gold;
+}
+h3{
+	color:yellow;
+}
